@@ -1,8 +1,12 @@
+vim.opt.shell = '\"C:/Program Files/Alacritty/alacritty.exe\"'
+
 require("config.color-scheme")
 require("config.keymaps")
 require("config.lazy")
-require("config.nvim-lualine")
-require("config.nvim-neotree")
-require("config.nvim-treesitter")
-require("config.nvim-telescope")
+require("config.lualine")
+require("config.neotree")
+require("config.treesitter")
+require("config.telescope")
+require("config.lsp")
+require("config.cmp")
 
