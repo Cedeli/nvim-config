@@ -4,3 +4,4 @@
 
 # Introduction
 This is a repo for my personal minimalistic Neovim config.
+Currently barely functioning, use at your own risk lol
