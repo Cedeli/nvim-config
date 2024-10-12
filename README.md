@@ -2,6 +2,6 @@
   <img src="https://img.shields.io/badge/Neovim-0.10.2-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim minimum version"/>
 </a>
 
-# Introduction
+## Introduction
 This is a repo for my personal minimalistic Neovim config. <br>
 Currently barely functioning, use at your own risk lol
