@@ -3,5 +3,5 @@
 </a>
 
 # Introduction
-This is a repo for my personal minimalistic Neovim config.
+This is a repo for my personal minimalistic Neovim config. <br>
 Currently barely functioning, use at your own risk lol
